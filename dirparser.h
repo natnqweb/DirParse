@@ -47,9 +47,15 @@ public:
 			return false;
 		}
 	}
-	void set_path(std::string path) {
-		if (std::filesystem::exists(path))
-		_path = path;
+	bool set_path(std::string path) {
+		if (check_if_path_exists(path)) {
+			_path = path;
+			return true;
+		}
+		else {
+			return false;
+		}
+		
 	}
 	std::string get_path() {
 		return _path;
