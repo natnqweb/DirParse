@@ -16,4 +16,4 @@
 ## tutorial
 1. specify path **you can specify full path or relative**
 2. application will ask you if you want to perform recursive search or not 
-3. if you want to check only one single directory press y      then -> enter
+3. if you want to check only one single directory press n      then -> enter
