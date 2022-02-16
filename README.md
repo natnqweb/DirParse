@@ -1,4 +1,5 @@
 # DirParse
+## Main file - **DirParse.cpp**
 
 ## Aplication contains VS solution file .sln
 1. **in order to run aplication without google test you need to change mode to release**
