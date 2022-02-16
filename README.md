@@ -6,7 +6,7 @@
 
 ## REQUIREMENTS/CONFIGURATION
 1. VS 2019+
-1. VS toolkit - v142
+1. VS toolset - v142
 1. STANDARD ISO C++ 20
 1. Windows SDK version 10
 
